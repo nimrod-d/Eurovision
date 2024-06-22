@@ -27,9 +27,8 @@ Upon averaging the differences over the years, certain countries consistently le
 
 ### Future Options to Explore
 
-- **Regional Voting Trends**: Investigate voting patterns and biases between different regions within Eurovision, exploring alliances and voting blocs.
-- **Long-term Trends**: Analyze trends over a longer period to identify evolving voting patterns and any shifts in jury and public preferences.
-- **Impact of Political Events**: Examine how geopolitical events influence voting behaviors and scores over time.
+- **Regional Voting Trends**: Investigate voting patterns and biases between different regions within Eurovision, exploring voting blocs.
+- **Impact of Political Events**: Examine how geopolitical events influence voting behaviors and scores.
 
 ### Data Source and Visualization
 
