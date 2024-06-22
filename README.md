@@ -5,13 +5,21 @@
 This project involves analyzing Eurovision song competition data from 2016 to 2024, focusing on jury and public voting scores. The dataset provides insights into the differences between jury and public perceptions across various countries and years.
 
 ### 🔑 Key Findings
+
+
 ![img](https://github.com/nimrod-d/Eurovision/blob/main/scatter_euro.png)
+
+
 - The largest disparity between jury and public scores occurred in 2024, where Israel experienced a 271-point difference favoring the public vote.
 - Other significant differences include Ukraine in 2022 (247 points) and Norway in 2019 (251 points).
 - Portugal achieved the highest score in 2017 with a minimal difference of 758 points, setting a historical record.
 - Conversely, Sweden in 2018 received 253 points from the jury but only 21 from the public, highlighting a notable disparity in favor of the jury.
 
 ### 👓 Insights
+
+
+![img](https://github.com/nimrod-d/Eurovision/blob/main/avg_diff_euro.png)
+
 
 Upon averaging the differences over the years, certain countries consistently lean towards higher public or jury scores:
 - Countries like Ukraine (135), Russia (115), Romania (103), Moldova (93), and Poland (90) tend to receive higher public scores.
